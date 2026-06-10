@@ -1,4 +1,4 @@
-# 
+# 自动 market making bot 模板 Mac OS版 | VIP market making bot 模板 PC Windows版。集成 动量分析 和 历史数据分析，跨平台性能最大化。
 
 
 
